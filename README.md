@@ -28,7 +28,7 @@ _I use the Thunder Client extension in VS Code for testing, you may find it usef
 ## Files
 There are only 2 files, the Blockchain class and the API (Node) implementation
 ### Blockchain.py
-_It's a simple implementation of a blockchain, the important thinks are:_
+_It's a simple implementation of a blockchain, the important things are:_
 - Every method and argument of the class has their respective data type
 - The code are separated by region to make it easier to read
 - The hashing algorithm is SHA3-512
